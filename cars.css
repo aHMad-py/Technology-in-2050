@@ -1,0 +1,33 @@
+body{
+    background:url(pexels-henry-&-co-2341290.jpg);
+    background-size: cover;
+    background-attachment: fixed
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: monospace;
+    border-bottom: 8px;
+}
+
+p{
+    font-size: 23px;
+    padding: 8px 4px;
+    font-family: monospace;
+}
+
+img{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    left: 10%;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.par p{
+    position:absolute;
+    top: 115%;
+    padding-bottom: 50px;
+}

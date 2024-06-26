@@ -1,0 +1,83 @@
+body{
+    background-image: url("pexels-henry-&-co-2341290.jpg");
+    background-size: cover;
+    background-attachment: fixed
+}
+
+.container h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 8px solid white;
+    text-align: center;
+    border-radius:15px;
+    display: inline-block;
+    font-family: monospace;
+}
+
+.container{
+    text-align: center;
+}
+
+.p1{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p2{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p3{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p3-par{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p4{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p4-par{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p5{
+    font-size :23px;
+    font-family: monospace;
+}
+
+.p5-par{
+    font-size :23px;
+    font-family: monospace;
+}
+
+a{
+    font-size :23px;
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+}
+
+a:active{
+    font-size :23px;
+    color: black;
+    
+}
+
+a:hover{
+    font-size :23px;
+    color: black;
+    
+}
+
+a:visited{
+    font-size :23px;
+    color: black;
+    
+}
